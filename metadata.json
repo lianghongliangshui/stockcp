@@ -1,0 +1,5 @@
+{
+  "name": "Copy of EastMoney Stock Visualizer",
+  "description": "A React application to visualize historical stock data (K-Line) for stock code 300246 using the EastMoney API with forward-adjusted pricing.",
+  "requestFramePermissions": []
+}
